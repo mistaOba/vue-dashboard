@@ -1,4 +1,4 @@
-# Shreyu - Vue based admin template
+# BXCN - Vue based admin template
 
 ### This project is crafted using [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate.git). It's an SPA project using Vue CLI 3.
 
@@ -15,4 +15,4 @@ yarn install
 yarn dev
 ```
 
-For reviewing project structure and other details, please visit their official [documentation](https://github.com/chrisvfritz/vue-enterprise-boilerplate).
+For reviewing project structure and other details, please visit the official [documentation](https://github.com/chrisvfritz/vue-enterprise-boilerplate).
